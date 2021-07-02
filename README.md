@@ -1,5 +1,5 @@
 # Visualizing-Earnings-from-2012-Majors
-Data about employment and earnings from 2012 graduates of various majors were obtained from a pre-cleaned dataset was obtained by Five Thirty Eight, and it hails from the  American Community Survey 2010-2012 Public Use Microdata Series. The first objective for this project was to train skills in visualizing data using matplotlib. The second was to answer questions on the data via visualizations. The questions I had to answer covered overall impressions, major popularity vs. earnings, and the gender gap. If enough information validated a potential gender gap, I would explore it further.
+Data about employment and earnings from 2012 graduates of various majors were obtained from a pre-cleaned dataset was obtained by Five Thirty Eight, and it hails from the  American Community Survey 2010-2012 Public Use Microdata Series. The first objective for this project was to train skills in visualizing data using matplotlib. The second was to answer questions on the data via visualizations. The questions I wanted to answer covered overall impressions, major popularity vs. earnings, and the gender gap. If enough information validated a potential gender gap, I would explore it further. Here are the questions:
 
 1)  What are some overall impressions gleaned from the data's distribution?
 
